@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 **🧠 Interests**
 - **Machine Learning Theory:** Reinforcement Learning (RL), Bandit Algorithms
-- **Mathematics:** Probability Theory, Functional Analysis, Analytic Number Theory, Abstract Algebra
-- **Algorithm:** 1D1P (1 Day 1 Problem)
+- **Mathematics:** Probability Theory, Functional Analysis, Analytic Number Theory
+- **Algorithm:** BOJ Solving
 
 **🛠️ Languages & Tools**
 <p>
