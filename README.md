@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20Sehyeon!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=RL%20Theory%20%26%20Bandit%20Algorithms&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn" />
 </div>
 
 <br>
