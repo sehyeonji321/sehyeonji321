@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 ### 🏅 Baekjoon Online Judge
 <div align="left">
   <a href="https://solved.ac/sehyeonji321">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sehyeonji321" alt="Solved.ac Badge" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sehyeonji" alt="Solved.ac Badge" />
   </a>
 </div>
