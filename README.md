@@ -42,12 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OpenAI%20Gym-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-<br>
 
-### 📈 GitHub Streak
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehyeonji321&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <br>
 
