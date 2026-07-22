@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 ### 💻 Tech Stack & Interests
 
 **🧠 Interests**
-- **Machine Learning Theory:** Reinforcement Learning (RL), Bandit Algorithms
-- **Mathematics:** Probability Theory, Functional Analysis, Analytic Number Theory
+- **Machine Learning Theory:** Bandit Algorithms, Reinforcement Learning Theory
+- **Mathematics:** Probability Theory, Functional Analysis, PDE
 - **Algorithm:** BOJ Solving
 
 **🛠️ Languages & Tools**
