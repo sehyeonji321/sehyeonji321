@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 ### 💻 Tech Stack & Interests
 
 **🧠 Interests**
-- **Machine Learning Theory:** Bandit Algorithms, Reinforcement Learning Theory
+- **Machine Learning Theory:** Bandit Algorithms(Nonlinear randomized exploration), Reinforcement Learning Theory
 - **Mathematics:** Probability Theory, Functional Analysis, PDE
-- **Algorithm:** BOJ Solving
-
+  
 **🛠️ Languages & Tools**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
